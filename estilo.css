@@ -1,8 +1,8 @@
 :root {
   --bg: #121212;
   --container: #1f1f1f;
-  --text: #fff;
-  --accent: #333;
+  --text: #0a0a0a;
+  --accent: #030303;
 }
 
 body {
@@ -87,7 +87,7 @@ button:hover {
 .bar {
   height: 100%;
   width: 0;
-  background: red;
+  background: rgb(64, 148, 123);
   transition: width 0.3s ease, background 0.3s ease;
 }
 
