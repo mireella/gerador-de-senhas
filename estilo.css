@@ -92,8 +92,8 @@ button:hover {
 }
 
 .light-mode {
-  --bg: #f4f4f4;
-  --container: #fff;
+  --bg: #a8e2dd;
+  --container: #49af99;
   --text: #000;
-  --accent: #ccc;
+  --accent: #cccccc;
 }
